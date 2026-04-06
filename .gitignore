@@ -1,1 +1,5 @@
 diabetes_012_health_indicators_BRFSS2015.csv
+*.log
+__pycache__/
+.ipynb_checkpoints/
+CLAUDE.md
